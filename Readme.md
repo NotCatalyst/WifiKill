@@ -1,5 +1,5 @@
-# WifiKill
-Tool to disconnect people from Wifi/LAN
+# WifiDeauth
+A tool to disconnect people from Wifi/LAN
 
 ## Version 
 1.0
