@@ -1,4 +1,4 @@
-# WifiDeauth
+# WifiKill
 A tool to disconnect people from Wifi/LAN
 
 ## Version 
@@ -7,5 +7,5 @@ A tool to disconnect people from Wifi/LAN
 ## Installation
 
 #bash
-git clone https://github.com/H3x404/WifiDeauth.git
+git clone https://github.com/H3x404/WifiKill.git
 pip install -r requirements.txt
